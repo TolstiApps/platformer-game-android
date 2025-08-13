@@ -13,9 +13,3 @@ Each round is randomly generated, so no two games are ever the same.
 - 🌴 Infinite, randomly generated levels.  
 - 🎲 Unique layout every time you play.  
 - 🎯 Simple but challenging mechanics.
-
-## 🚀 How to Play
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/monkey-palm-jumper.git
-   cd monkey-palm-jumper
